@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Water-Charges-Calculator</string>
+
+<!--    部屋番号一覧：コンボボックス用-->
+    <string-array name="roomNumber_array">
+        <item>201</item>
+        <item>202</item>
+        <item>203</item>
+        <item>205</item>
+        <item>301</item>
+        <item>302</item>
+        <item>303</item>
+        <item>305</item>
+        <item>401</item>
+        <item>402</item>
+        <item>403</item>
+        <item>405</item>
+        <item>501</item>
+        <item>502</item>
+        <item>503</item>
+        <item>505</item>
+        <item>601</item>
+        <item>602</item>
+        <item>603</item>
+        <item>605</item>
+        <item>701</item>
+        <item>702</item>
+        <item>703</item>
+        <item>705</item>
+        <item>801</item>
+        <item>802</item>
+        <item>803</item>
+        <item>805</item>
+    </string-array>
+</resources>
