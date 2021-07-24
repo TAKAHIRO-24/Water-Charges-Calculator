@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Water-Charges-Calculator</string>
 
-<!--    部屋番号一覧：コンボボックス用-->
+    <!--    部屋番号一覧：コンボボックス用-->
     <string-array name="roomNumber_array">
         <item>201</item>
         <item>202</item>
